@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Matrial\\software dev\\Sheet 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A4211F-AA00-440B-8B80-9DCA481CDAC3}|Sheet 3.vcxproj|C:\\Users\\Admin\\Desktop\\Matrial\\software dev\\Sheet 3\\Sheet 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A4211F-AA00-440B-8B80-9DCA481CDAC3}|Sheet 3.vcxproj|solutionrelative:Sheet 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sheet 3.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Matrial\\software dev\\Sheet 3\\Sheet 3.cpp",
+              "RelativeDocumentMoniker": "Sheet 3.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Matrial\\software dev\\Sheet 3\\Sheet 3.cpp",
+              "RelativeToolTip": "Sheet 3.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T17:41:54.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
